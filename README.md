@@ -1,3 +1,5 @@
+This try to adapt great vim plugin for ros2. Thanks to [contributors of vim-ros](https://github.com/taketwo/vim-ros/graphs/contributors)
+
 This plugin activates itself for files that belong to some ROS package.
 
 Features
